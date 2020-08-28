@@ -1,5 +1,5 @@
 {
-    "name": "eyeweb/missioncontrolcore",
+    "name": "andrepelealu/missioncontrolcore",
     "require": {
         "barryvdh/laravel-debugbar": "^3.2",
         "barryvdh/laravel-dompdf": "^0.8",
