@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Eyeweb\\MissionControl\\": "src/"
+            "andrepelealu\\MissionControl\\": "src/"
         }
     },
     "scripts": {
@@ -45,7 +45,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Eyeweb\\MissionControl\\Providers\\MissionControlServiceProvider"
+                "andrepelealu\\MissionControl\\Providers\\MissionControlServiceProvider"
             ]
         }
     }
